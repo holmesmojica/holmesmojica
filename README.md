@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Senior Software Developer focused on designing scalable backend systems with .NET.
 
-I specialize in building reliable and maintainable solutions using microservices architecture, clean architecture, and high-performance communication with gRPC.
+I build reliable and maintainable solutions using microservices architecture, clean architecture, and high-performance communication with gRPC.
 
 ---
 
