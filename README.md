@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Holmes Mojica
+# Hi, I'm Holmes Mojica 👋
 
 ## 🚀 About Me
 Senior Software Developer focused on designing scalable backend systems with .NET.
