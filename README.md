@@ -34,7 +34,7 @@ I build reliable and maintainable solutions using microservices architecture, cl
 ## 📌 Current Focus
 
 - Designing scalable systems
-- Improving system architecture
+- Enhancing system architecture
 - Building reusable components and services
 
 ---
