@@ -21,7 +21,7 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 **Backend**
 - .NET, ASP.NET Core
-- gRPC, REST APIs
+- gRPC & REST APIs
 
 **Frontend (secondary)**
 - React, Blazor
