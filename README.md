@@ -1,5 +1,7 @@
 # Hi, I'm Holmes Mojica 👋
 
+## 🧩 Backend Engineer | .NET | Microservices | gRPC
+
 ## 🚀 About Me
 Senior Software Developer focused on designing scalable backend systems with .NET.
 
@@ -41,7 +43,7 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 ## 🔗 Connect with Me
 
-- GitHub: https://github.com/holmesmojica-dev
+- GitHub Organization: https://github.com/holmesmojica-dev
 - Email: holmesmojica.dev@gmail.com
 
 ---
