@@ -50,4 +50,4 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 ## ⚡ Philosophy
 
-> Designing systems, not just writing code — building solutions that create real value for people, businesses, and developers.
+> Designing systems, not just writing code — building clean and reusable solutions.
