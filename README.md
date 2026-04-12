@@ -13,7 +13,7 @@ I build reliable and maintainable solutions using microservices architecture, cl
 - Microservices Architecture
 - REST APIs & gRPC
 - Clean Architecture
-- Backend Systems Design
+- Backend System Design
 
 ---
 
