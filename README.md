@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Holmes Mojica
 
-<!--
-**holmesmojica/holmesmojica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Senior Software Developer focused on designing scalable backend systems with .NET.
 
-Here are some ideas to get you started:
+I specialize in building reliable and maintainable solutions using microservices architecture, clean architecture, and high-performance communication with gRPC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Focus
+
+- .NET / C#
+- Microservices Architecture
+- REST APIs & gRPC
+- Clean Architecture
+- Backend Systems Design
+
+---
+
+## ⚙️ Tech Stack
+
+**Backend**
+- .NET, ASP.NET Core
+- gRPC, REST APIs
+
+**Frontend (secondary)**
+- React, Blazor
+
+**Mobile**
+- .NET MAUI
+
+---
+
+## 📌 Current Focus
+
+- Designing scalable systems
+- Improving system architecture
+- Building reusable components and services
+
+---
+
+## 🔗 Connect with Me
+
+- GitHub: https://github.com/holmesmojica-dev
+- Email: holmesmojica.dev@gmail.com
+
+---
+
+## ⚡ Philosophy
+
+> Designing systems, not just code.
