@@ -41,7 +41,7 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 ---
 
-## 🔎 Mis statistics:
+## 🔎 My Stats:
 <details>
     <summary>🔎 Look</summary>
   
