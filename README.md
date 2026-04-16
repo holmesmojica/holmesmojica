@@ -47,10 +47,11 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 ---
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 
-- GitHub Organization: https://github.com/holmesmojica-dev
-- Email: holmesmojica.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/in-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/holmes-dennys-mojica-montero)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email%20me-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&fs=1&to=holmesmojica.dev@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/holmesmojica-dev)
 
 ---
 
