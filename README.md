@@ -41,6 +41,14 @@ I build reliable and maintainable solutions using microservices architecture, cl
 
 ---
 
+## 🔎 Mis statistics:
+<details>
+    <summary>🔎 Look</summary>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmesmojica&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🔗 Connect with Me
 
 - GitHub Organization: https://github.com/holmesmojica-dev
