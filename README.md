@@ -16,20 +16,40 @@ I build reliable and maintainable solutions using microservices architecture, cl
 - REST APIs & gRPC
 - Clean Architecture
 - Backend System Design
+- Reusable Components & Services
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Technologies & Tools
 
-**Backend**
-- .NET, ASP.NET Core
-- gRPC & REST APIs
+### Backend
 
-**Frontend (secondary)**
-- React, Blazor
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net\&logoColor=white\&style=flat)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=white\&style=flat)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net\&logoColor=white\&style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?logo=grpc\&logoColor=white\&style=flat)
 
-**Mobile**
-- .NET MAUI
+### Architecture & Practices
+
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Design-success?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-orange?style=flat)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB\&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white\&style=flat)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor\&logoColor=white\&style=flat)
+
+### Mobile
+
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=.net\&logoColor=white\&style=flat)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions\&logoColor=white\&style=flat)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud\&logoColor=white\&style=flat)
 
 ---
 
@@ -38,12 +58,6 @@ I build reliable and maintainable solutions using microservices architecture, cl
 - Designing scalable systems
 - Enhancing system architecture
 - Building reusable components and services
-
----
-
-## 🔎 My Stats:
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmesmojica&show_icons=true&theme=tokyonight)
 
 ---
 
